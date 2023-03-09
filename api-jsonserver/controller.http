@@ -1,0 +1,25 @@
+
+GET http://localhost:8080/products
+
+###
+
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+    "name": "speaker",
+    "price": 50
+}
+
+###
+
+PUT http://localhost:8080/products/3
+Content-Type: application/json
+
+{
+    "price": 250
+}
+
+###
+
+DELETE http://localhost:8080/products/3

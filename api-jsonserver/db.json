@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "name": "mobile phone",
+      "price": 100
+    },
+    {
+      "name": "speaker",
+      "price": 50,
+      "createdAt": 1669946009266,
+      "updatedAt": 1669946009266,
+      "id": 4
+    }
+  ]
+}

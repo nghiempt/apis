@@ -1,0 +1,12 @@
+GET http://localhost:8090/api/location
+
+###
+
+POST http://localhost:8090/api/location
+Content-Type: application/json
+
+{
+    "id": 2,
+    "lat": "10",
+    "lng": "104"
+}
